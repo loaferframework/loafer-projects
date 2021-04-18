@@ -6,7 +6,7 @@
         <artifactId>loafer-boot-dependencies</artifactId>
         <groupId>com.github.loaferframework</groupId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../../loafer-boot-dependencies</relativePath>
+        <relativePath>../loafer-boot-starter-dependencies</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>loafer-boot-starter-parent</artifactId>
