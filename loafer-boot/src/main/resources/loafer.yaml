@@ -1,0 +1,20 @@
+server:
+  error:
+    whitelabel:
+      enabled: false
+system:
+  env: ${spring.profiles.active:default}
+  name: ${spring.application.name:Loafer}
+  port: ${server.port:8080}
+  formatted-version: 0.0.1-SNAPSHOT
+spring:
+  banner:
+    location: classpath:loafer-banner.txt
+  loafer:
+    async:
+      enabled: true
+      queue-capacity: 500
+      thread-name-prefix: async-loafer
+      keep-alive-seconds: 30
+      allow-core-thread-time-out: false
+      wait-for-tasks-to-complete-on-shutdown: true

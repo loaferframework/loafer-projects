@@ -1,0 +1,7 @@
+${AnsiColor.BRIGHT_BLUE}  ,--.     ,-----.    ,---.   ,------. ,------. ,------.
+${AnsiColor.BRIGHT_BLUE}  |  |    '  .-.  '  /  O  \  |  .---' |  .---' |  .--. '
+${AnsiColor.BRIGHT_BLUE}  |  |    |  | |  | |  .-.  | |  `--,  |  `--,  |  '--'.'
+${AnsiColor.BRIGHT_BLUE}  |  '--. '  '-'  ' |  | |  | |  |`    |  `---. |  |\  \
+${AnsiColor.BRIGHT_BLUE}  `-----'  `-----'  `--' `--' `--'     `------' `--' '--'
+
+${AnsiColor.BRIGHT_WHITE}                            ${system.name} :: ${AnsiColor.YELLOW}${system.formatted-version} :: ${AnsiColor.RED}${system.env} ${AnsiColor.DEFAULT}

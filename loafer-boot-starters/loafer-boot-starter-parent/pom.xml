@@ -9,7 +9,7 @@
         <relativePath>../../loafer-boot-dependencies</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
     <artifactId>loafer-boot-starter-parent</artifactId>
+    <packaging>pom</packaging>
 
 </project>

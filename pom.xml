@@ -12,7 +12,7 @@
         <module>loafer-boot</module>
         <module>loafer-boot-parent</module>
         <module>loafer-boot-dependencies</module>
-        <module>loafer-boot-starters/loafer-boot-starter-common-web</module>
+        <module>loafer-boot-starters/loafer-boot-starter-web</module>
         <module>loafer-boot-starters/loafer-boot-starter-parent</module>
     </modules>
 
